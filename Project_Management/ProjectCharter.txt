@@ -1,1 +1,97 @@
-hello
+# **Template - Termo de Abertura do Projeto**
+
+## **1. Informações Gerais**
+📌 **Nome do Projeto:** [Preencher]  
+📌 **Patrocinador:** [Preencher]  
+📌 **Gerente do Projeto:** [Preencher]  
+📌 **Data de Aprovação:** [Preencher]  
+
+---
+
+## **2. Objetivo**
+Descreva o objetivo principal do projeto, explicando o que será desenvolvido e qual problema será resolvido.  
+
+---
+
+## **3. Justificativa**
+Explique por que este projeto é necessário e quais benefícios ele trará para a organização ou usuários finais.  
+
+---
+
+## **4. Escopo Inicial**
+✅ [Listar os principais entregáveis do projeto]  
+❌ [Listar o que não está incluído no escopo]  
+
+---
+
+## **5. Premissas e Restrições**
+
+### **Premissas (Assumptions)**
+🔹 [Listar as suposições que se acredita serem verdadeiras para o projeto]  
+
+### **Restrições (Constraints)**
+⚠️ [Listar os principais limites do projeto, como orçamento, prazo e tecnologia]  
+
+---
+
+## **6. Sumário de Orçamento (Budget Summary)**
+
+| Categoria               | Valor Estimado (R$) |
+|------------------------|------------------|
+| Desenvolvimento        | [Preencher]       |
+| UX/UI Design          | [Preencher]        |
+| Infraestrutura (Cloud, APIs) | [Preencher]  |
+| Marketing e Lançamento | [Preencher]        |
+| Contingência          | [Preencher]        |
+| **Total**             | **[Preencher]**   |
+
+---
+
+## **7. Cronograma Inicial (Timeline)**
+
+| Fase do Projeto                 | Início | Término |
+|--------------------------------|--------|---------|
+| Planejamento e Levantamento de Requisitos | [Preencher] | [Preencher] |
+| Design UX/UI                   | [Preencher] | [Preencher] |
+| Desenvolvimento Backend e Banco de Dados | [Preencher] | [Preencher] |
+| Desenvolvimento Frontend (Web e Mobile) | [Preencher] | [Preencher] |
+| Testes e Ajustes Finais        | [Preencher] | [Preencher] |
+| Lançamento do MVP              | [Preencher] | [Preencher] |
+
+---
+
+## **8. Marcos do Projeto (Milestones)**
+
+📍 [Listar marcos importantes do projeto e suas datas estimadas]  
+
+---
+
+## **9. Stakeholders Principais**
+- [Listar os principais envolvidos no projeto]  
+
+---
+
+## **10. Autoridade do Gerente de Projeto (Project Manager Authority)**
+📌 O Gerente de Projeto terá autoridade para:
+- [Definir o nível de autoridade sobre recursos, escopo e prazos]  
+
+---
+
+## **11. Principais Riscos**
+⚠️ [Listar os principais riscos e desafios do projeto]  
+
+---
+
+## **12. Critérios de Sucesso**
+✔️ [Definir quais métricas ou fatores indicarão o sucesso do projeto]  
+
+---
+
+✍ **Assinatura do Patrocinador:** [Preencher]  
+📅 **Data:** [Preencher]  
+
+---
+
+Este template pode ser usado pelos alunos para estruturar o **Termo de Abertura do Projeto**, garantindo que eles considerem todos os elementos essenciais da fase de iniciação. 🎯
+
+
