@@ -1,0 +1,30 @@
+Relatório de Status - Sprint #n – Projeto X
+
+Data: 
+
+Período Coberto: 
+
+Responsável: 
+
+Resumo Geral: 
+🟡 Em andamento com alguns riscos
+🟢 Entrega prevista: Dentro do prazo
+
+Principais Entregas da Sprint:
+
+✅ (entregues)
+
+🔄 (em andamento)
+
+⚠️ (problemas)
+
+Riscos e Impedimentos:
+
+- 
+- 
+
+Próximos Passos:
+
+- 
+-
+-
