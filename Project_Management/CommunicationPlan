@@ -1,0 +1,11 @@
+PLANO DE COMUNICAÇÃO - PROJETO X
+
++------------------------+----------------------------------------+--------------------------+------------------+------------------------------+-----------------------+
+| Stakeholder            | Necessidade de Informação              | Meio/Canais              | Frequência       | Responsável pela Comunicação | Formato               |
++------------------------+----------------------------------------+--------------------------+------------------+------------------------------+-----------------------+
+| Cliente Final          | Progresso do projeto, entregas         | Reuniões, Email          | Quinzenal        | Gerente de Projeto           | Relatório + Reunião   |
+| Desenvolvedores        | Tarefas, mudanças, bugs                | Slack, GitHub Issues     | Diária           | Product Owner                | Texto / Checklist     |
+| Product Owner (PO)     | Status geral, impedimentos             | Daily, Email, Jira       | Diária / Semanal | Devs + Gerente               | Diário + Relatório    |
+| QA (Testes)            | Funcionalidades prontas para teste     | Slack, Jira              | Sob demanda      | Devs                         | Checklist + Issues    |
+| Stakeholders Externos  | Marcos principais, ROI do projeto      | Apresentações executivas | Mensal           | Gerente de Projeto           | Slide deck / Sumário  |
++------------------------+----------------------------------------+--------------------------+------------------+------------------------------+-----------------------+
